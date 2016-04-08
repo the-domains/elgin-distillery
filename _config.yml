@@ -1,0 +1,14 @@
+layout_spectrum: 0.08347737
+color:
+  saturation: 0.4797071
+  lightness: 0.5332975
+  brandStrength: 0.264769
+  brandColors:
+    - '#0C0C0E'
+    - '#526777'
+    - '#F3DFC6'
+    - '#905D41'
+    - '#6FAAFC'
+  rhythmicContrast: 0.5139635
+typography_spectrum: 0.005775568
+name: Elgin Distillery
